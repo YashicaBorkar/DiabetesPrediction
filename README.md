@@ -5,3 +5,6 @@ Model: Logistic Regression
 Accuracy: 0.81 (81%)
 Backend: Flask (Python)
 Frontend: HTML/CSS
+
+Live Demo: You can access the live version of the Diabetes Predictor here
+https://yashicaborkar.pythonanywhere.com/
