@@ -1,2 +1,7 @@
-# DiabetesPrediction
-This repository contains a diagnostic tool developed using supervised learning. I performed data preprocessing and utilized a 70/30 (or 80/20) train-test split to ensure model robustness. The resulting Logistic Regression model provides a binary classification of patient health status. 
+A complete end-to-end Machine Learning web application that predicts the likelihood of diabetes based on medical metrics. The project utilizes a Logistic Regression model trained on the Pima Indians Diabetes Dataset, achieving an 81% accuracy rate. It features a user-friendly Flask GUI for real-time predictions. 
+
+Key Highlights:
+Model: Logistic Regression
+Accuracy: 0.81 (81%)
+Backend: Flask (Python)
+Frontend: HTML/CSS
